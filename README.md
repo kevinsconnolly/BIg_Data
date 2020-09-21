@@ -19,5 +19,5 @@ I chose PySpark to create a new notebook and perform an analysis.
 
 
 
-Looking at the top 20 rows of each tokenized dataset, I can not find any correlation to The Vine Reviews. No words or tokens strike a pattern to lead to further analysis. We can determine the Vine reviews are not biased in our analysis. However, the large data set and infinite analysis available could draw an inconclusive result.
+First, looking at more data or larger datasets may always bring doubt and allow for discussion or disagreemet in findings. It comes down to your gut and informed observation. While looking at the top 20 rows of each tokenized dataset, there doesn't seem to be any correlation in the Vine Reviews. There isn't a pattern in words or tokens. I can then determine the vine reviews have zero biaz.
 
