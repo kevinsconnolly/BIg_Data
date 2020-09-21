@@ -1,6 +1,9 @@
 # Big_Data
 Challenge Summary
 Instructions
+
+
+
 1.) Make schemata to create tables in our RDS database.
 
 2.) Create a Google Colab Notebook and extract any dataset from the list of review datasets , one into each notebook.
