@@ -16,6 +16,7 @@ Transform the dataset to fit the tables in the schema file.
 Load the DataFrames that correspond to tables into an RDS instance.
 4.) Use either PySpark to analyze and determine if the Vine reviews are biased.
 I chose PySpark to create a new notebook and perform an analysis.
+5) Access to Colab is in the OfficeProductsChallenge.ipynb
 
 
 
