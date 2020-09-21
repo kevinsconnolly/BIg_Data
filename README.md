@@ -19,7 +19,7 @@ Load the DataFrames that correspond to tables into an RDS instance.
 are biased.
 I chose PySpark to create a new notebook and perform an analysis.
 
-5) Access to Colab is in the OfficeProductsChallengeDeliverable.ipynb
+5.) Access to Colab is in the OfficeProductsChallengeDeliverable.ipynb
 
 
 
